@@ -10,7 +10,6 @@ The goal of this repository is to show my code and to share with another dev ide
 
 I believe that if all of collaborate sharging knowlegde, we will develop a society with the most qualifity profissionals.
 
-The workspace is divided in:
 
  
 [My Linkedin: Weslley Prado](https://www.linkedin.com/in/weslleyprado/)
